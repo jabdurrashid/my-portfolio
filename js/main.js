@@ -14,12 +14,12 @@ const myWork = [
     }
   },
   {
-    'title': "Portfolio Boilerplate",
+    'title': "Tools of the Portfolio",
     'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet",
+    'desc': "Workflow",
     'image': {
       'desc': "A Serverless Portfolio",
-      'src': "images/example2.png",
+      'src': "images/port-arch.png",
       'comment': ""
     }
   },
